@@ -1,6 +1,6 @@
 import { Produto } from "./Produto";
 
-export class Cosmetico extends Produto{
+export class Vinil extends Produto{
 
     // Atributo específico da Classe Medicamento
     private _tipoMaterial :string; //O tipo de material do vinil (por exemplo, vinil colorido, vinil transparente, vinil preto clássico).
